@@ -1,0 +1,3 @@
+This is the ode used for my examination and the repport explaining the problem and how I solved it. Hope you enjoy. If you have any questions please feel free to reach out to me on discord: #Rompa9252
+
+I have redacted api keys and other sensitive information from the code so it will not work. Also the database was local and I am not including the way I got the data since it was done in a project im no longer involved in and I dont own the sensors used.
